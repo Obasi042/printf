@@ -1,7 +1,7 @@
 # 0x10. C - printf
 
 ## Description
-This team project is part of the first year curriculum of Holberton School.
+This team project is part of the first sprint project in the Alx software Engineering program curriculum.
 _printf replicates the C standard library printf() function.
 
 What you should learn from this project:
@@ -108,5 +108,5 @@ These are all the tasks of this project, the ones that are completed link to the
 ---
 
 ### Authors
-* **Tu Vo** - [tuvo1106@gmail.com](https://github.com/tuvo1106)
-* **Laura Roudge** - [laura.derohan@gmail.com](https://github.com/lroudge)
+* **Chiagoziem** - chiagoziem94@gmail.com
+* **chukwuebuka** - https://github.com/Nathan-88
