@@ -108,5 +108,5 @@ These are all the tasks of this project, the ones that are completed link to the
 ---
 
 ### Authors
-* **Chiagoziem** - chiagoziem94@gmail.com
-* **chukwuebuka** - https://github.com/Nathan-88
+* **Chiagoziem Elgibbor** - chiagoziem94@gmail.com
+* **chukwuebuka Onwuka** - https://github.com/Nathan-88
